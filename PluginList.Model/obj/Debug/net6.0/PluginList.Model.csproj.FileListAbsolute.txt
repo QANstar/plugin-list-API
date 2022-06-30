@@ -1,0 +1,12 @@
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\bin\Debug\net6.0\PluginList.Model.deps.json
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\bin\Debug\net6.0\PluginList.Model.dll
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\bin\Debug\net6.0\PluginList.Model.pdb
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\obj\Debug\net6.0\PluginList.Model.csproj.AssemblyReference.cache
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\obj\Debug\net6.0\PluginList.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\obj\Debug\net6.0\PluginList.Model.AssemblyInfoInputs.cache
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\obj\Debug\net6.0\PluginList.Model.AssemblyInfo.cs
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\obj\Debug\net6.0\PluginList.Model.csproj.CoreCompileInputs.cache
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\obj\Debug\net6.0\PluginList.Model.dll
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\obj\Debug\net6.0\refint\PluginList.Model.dll
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\obj\Debug\net6.0\PluginList.Model.pdb
+D:\QAN_Program\WebApi\PluginList_API\PluginList.Model\obj\Debug\net6.0\ref\PluginList.Model.dll
